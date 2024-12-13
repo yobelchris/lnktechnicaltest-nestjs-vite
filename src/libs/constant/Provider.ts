@@ -1,0 +1,4 @@
+export const ProviderConst = {
+  ACCESS_TOKEN_JWT: 'ACCESS_TOKEN_JWT',
+  REFRESH_TOKEN_JWT: 'REFRESH_TOKEN_JWT',
+};
